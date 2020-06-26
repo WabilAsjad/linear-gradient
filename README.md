@@ -1,4 +1,4 @@
-# linear-gradient
+# linear-gradient picker
 Pick two colors for a linear gradient, and get the CSS code. 
 
 # Preview
